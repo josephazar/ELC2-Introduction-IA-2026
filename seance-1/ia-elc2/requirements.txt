@@ -1,8 +1,10 @@
 # Bibliotheques du cours ELC2 - Introduction au machine learning.
-# A installer DANS l'environnement virtuel du dossier ia-elc2 :
-#     uv pip install -r requirements.txt
+# A installer DANS l'environnement virtuel du dossier ia-elc2 (voir installer-jupyter.pdf) :
+#     Windows        : .venv\Scripts\python -m pip install -r requirements.txt
+#     macOS, Linux   : .venv/bin/python -m pip install -r requirements.txt
 notebook==7.6.3
 pandas==3.0.6
 scikit-learn==1.9.1
 matplotlib==3.11.2
 openpyxl==3.1.5
+ipykernel==7.4.0

@@ -9,11 +9,16 @@ Chaque séance part d'une entreprise, d'un fichier et d'une question. On cherche
 main ce qui se passe dans les données, puis on le refait en Python, dans Jupyter, sur son
 propre ordinateur.
 
-## Avant la première séance pratique
+## Deux façons de faire les TP
 
-Installez Jupyter en suivant **[installer-jupyter.pdf](installer-jupyter.pdf)** (macOS, Linux,
-Windows). Tout s'installe dans un dossier `ia-elc2`, dans un environnement virtuel : rien n'est
-installé dans le Python de votre système.
+- **Sans rien installer : Google Colab.** Dans le dossier de chaque séance, cliquez sur le bouton
+  **Open in Colab** à côté du notebook, connectez-vous avec un compte Google, puis
+  **Exécution → Tout exécuter**. Les données se téléchargent toutes seules.
+- **Sur votre ordinateur** : suivez **[installer-jupyter.pdf](installer-jupyter.pdf)** (Windows,
+  macOS, Linux, et VS Code). Tout s'installe dans un dossier `ia-elc2`, dans un environnement
+  virtuel : rien n'est installé dans le Python de votre système.
+
+Les deux donnent les mêmes résultats. Le guide commence par Colab.
 
 ## Séances
 

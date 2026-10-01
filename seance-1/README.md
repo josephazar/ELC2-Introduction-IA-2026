@@ -40,13 +40,23 @@ Dans `ia-elc2` :
 | `requirements.txt` | la liste des bibliothèques du cours et de leurs versions |
 | `01-premier-notebook.ipynb` | le premier notebook : toutes les étapes du cours, en Python |
 | `02-td-pretraitement.ipynb` | le TD, pas à pas : du calcul au crayon au code |
-| `td-pretraitement.py` | le prétraitement complet du TD, en un script : `uv run python td-pretraitement.py` |
+| `td-pretraitement.py` | le prétraitement complet du TD, en un script : `.venv\Scripts\python td-pretraitement.py` (Windows), `.venv/bin/python td-pretraitement.py` (macOS, Linux) |
 | `donnees/ventes-3-agences.xlsx` | le fichier de ventes, avec ses défauts, et son dictionnaire des colonnes |
 | `donnees/Data.csv` | le fichier de clients du TD |
 
 Dans l'archive, les notebooks sont vierges : c'est en les exécutant que vous obtenez les
 résultats.
 
-Pour installer et lancer Jupyter : [installer-jupyter.pdf](../installer-jupyter.pdf).
+## Sans rien installer : Google Colab
+
+| Notebook | |
+|---|---|
+| Premier notebook | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/josephazar/ELC2-Introduction-IA-2026/blob/main/seance-1/ia-elc2/01-premier-notebook.ipynb) |
+| TD prétraitement des données | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/josephazar/ELC2-Introduction-IA-2026/blob/main/seance-1/ia-elc2/02-td-pretraitement.ipynb) |
+
+Connectez-vous avec un compte Google, puis **Exécution → Tout exécuter**. Pour garder votre
+travail : **Copier sur Drive**.
+
+Pour installer Jupyter sur votre ordinateur : [installer-jupyter.pdf](../installer-jupyter.pdf).
 
 *Entreprise, personnes et ventes fictives. Les noms de villes sont réels et servent d'étiquettes.*

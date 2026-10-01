@@ -5,7 +5,8 @@
 # Le même traitement que la partie 9 du notebook 02-td-pretraitement.ipynb, sans
 # les explications. Depuis le dossier ia-elc2, dans un terminal :
 #
-#     uv run python td-pretraitement.py
+#     Windows        : .venv\Scripts\python td-pretraitement.py
+#     macOS, Linux   : .venv/bin/python td-pretraitement.py
 # =============================================================================
 
 import pandas as pd
