@@ -19,7 +19,7 @@ installé dans le Python de votre système.
 
 | Séance | Thème | Dossier |
 |---|---|---|
-| 1 | Le machine learning, et ses données | [seance-1](seance-1/) |
+| 1 | Le machine learning, et ses données · TD prétraitement des données | [seance-1](seance-1/) |
 
 ## Récupérer les fichiers d'une séance
 
