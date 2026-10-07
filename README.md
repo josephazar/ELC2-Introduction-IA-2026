@@ -25,6 +25,7 @@ Les deux donnent les mêmes résultats. Le guide commence par Colab.
 | Séance | Thème | Dossier |
 |---|---|---|
 | 1 | Le machine learning, et ses données · TD prétraitement des données | [seance-1](seance-1/) |
+| 2 | La classification | [seance-2](seance-2/) |
 
 ## Récupérer les fichiers d'une séance
 
