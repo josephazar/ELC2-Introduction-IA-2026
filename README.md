@@ -26,6 +26,11 @@ Les deux donnent les mêmes résultats. Le guide commence par Colab.
 |---|---|---|
 | 1 | Le machine learning, et ses données · TD prétraitement des données | [seance-1](seance-1/) |
 | 2 | La classification | [seance-2](seance-2/) |
+| 3 | La régression et le clustering | [seance-3](seance-3/) |
+
+## Réviser
+
+L'examen de l'an dernier, avec son corrigé détaillé : [examen](examen/).
 
 ## Récupérer les fichiers d'une séance
 
